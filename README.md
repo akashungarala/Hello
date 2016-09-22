@@ -16,4 +16,4 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Cloning the Project
 
-Get started by cloning the project to your local machine: https://github.com/akashungarala/hello
+Get started by cloning the project to your local machine: https://github.com/akashungarala/Hello
